@@ -1,0 +1,209 @@
+<html>
+    <title>Азіатська кухня</title>
+    <body style="background-color:lightblue; font-family: monospace">
+        <header style="background-color:lightpink">
+            <h1 align="center">Найсмачніші страви азіатської кухні</h1>
+        </header>
+        <main>
+        <h2 style="background-color:Plum; text-align: center">Корейська кухня</h2>
+        <h4 style="background-color:lightyellow; text-align: center">Страви</h4>
+        <p>1. Рамьон</p><img src="https://i.pinimg.com/474x/bd/01/96/bd0196d69ae9ac99a66ace9701eb190c--korean-noodles.jpg" width="250" height="200"/><br>
+        <i>Шин Рамен (Рамьон) в перекладі з корейської означає "гостра локшина". Це одне з найпопулярніших страв швидкого приготування в Південній Кореї, виробляють яке протягом останніх 30 років.</i>
+        <table style="border: solid Fuchsia 1px; background-color:PeachPuff">
+            <tr>
+                <td colspan="2" style="text-align: center"><b>Рецепт</b></td>
+            </tr>
+            <tr>
+                <td>Рисові палички Тток</td>
+                <td>300 гр.</td>
+            </tr>
+            <tr>
+                <td>Куриче/свиняче</td>
+                <td>200 гр.</td>
+            </tr>
+            <tr>
+                <td>Морква</td>
+                <td>1 шт.</td>
+            </tr>
+            <tr>
+                <td>Зелена цибуля</td>
+                <td>4 стрілки</td>
+            </tr>
+            <tr>
+                <td>Цибуля ріпчата</td>
+                <td>1 шт.</td>
+            </tr>
+            <tr>
+                <td>Яйце варене</td>
+                <td>2 шт.</td>
+            </tr>
+        </table>
+        <h4 style="background-color:lightyellow; text-align: center">Закуски</h4>
+        <p>2. Токпоккі</p>
+        <img src="https://i.pinimg.com/474x/69/c2/eb/69c2eb8e15a24121e882e49d78f4de8f.jpg" height="250" width="250"/><br>
+        <i>Токпоккі (떡볶이) або смажені рисові коржі — популярна корейська їжа, виготовлена з довгих, білих, циліндричних рисових коржів, що мають назву токмуйон </i>
+        <table style="border: solid Fuchsia 1px; background-color:PeachPuff">
+            <tr>
+                <td colspan="2"><b>Рецепт</b></td>
+            </tr>
+            <tr>
+                <td>Локшина рамьон</td>
+                <td>1 пачка</td>
+            </tr>
+            <tr>
+                <td>Вода</td>
+                <td>600 мл</td>
+            </tr>
+            <tr>
+                <td>Курячі яйця</td>
+                <td>3 штуки</td>
+            </tr>
+            <tr>
+                <td>Копчена ковбаса</td>
+                <td>50 гр.</td>
+            </tr>
+            <tr>
+                <td>Шіїтаке</td>
+                <td>3 штуки</td>
+            </tr>
+            <tr>
+                <td>Зелена цибуля</td>
+                <td>1 пучок</td>
+            </tr>
+        </table>
+        <h2 style="background-color:plum; text-align: center">Японська кухня</h2>
+        <h4 style="background-color:lightyellow; text-align: center">Страви</h4>
+        <p>3. Рамен</p>
+        <img src="https://images.prom.ua/2402605537_miso-ramen.jpg" width="250" height="200"/><br>
+        <i>Рамен- страва японської кухні з пшеничною локшиною. Дуже популярна особливо серед молоді, бо недорога, смачна та поживна. Фактично, рамен — це фастфуд. У Японії є популярною вуличною їжею. Назвою дуже схоже на корейську страву рамьон, але в них є багато відмінностей.</i>
+        <table style="border: solid Fuchsia 1px; background-color:PeachPuff">
+            <tr>
+                <td colspan="2"><b>Рецепт</b></td>
+            </tr>
+            <tr>
+                <td>Куряче філе</td>
+                <td>300 гр.</td>
+            </tr>
+            <tr>
+                <td>Локшина</td>
+                <td>375 гр.</td>
+            </tr>
+            <tr>
+                <td>Яйця</td>
+                <td>4 шт.</td>
+            </tr>
+            <tr>
+                <td>Шпінат</td>
+                <td>1 шт.</td>
+            </tr>
+            <tr>
+                <td>Морква</td>
+                <td>1 шт.</td>
+            </tr>
+            <tr>
+                <td>Ріпчата цибуля</td>
+                <td>1 шт.</td>
+            </tr>
+            <tr>
+                <td>Часник</td>
+                <td>3 зубчика</td>
+            </tr>
+            <tr>
+                <td>Норі</td>
+                <td>1 лист</td>
+            </tr>
+            <tr>
+                <td>Соєвий соус</td>
+                <td>4 ст. л.</td>
+            </tr>
+            <tr>
+                <td>Цукор</td>
+                <td>1. ч. л.</td>
+            </tr>
+            <tr>
+                <td>Імбирь</td>
+                <td>4 см.</td>
+            </tr>
+            <tr>
+                <td>Перець чилі</td>
+                <td>Щіпка</td>
+            </tr>
+            <tr>
+                <td>Імбирь</td>
+                <td>По смаку</td>
+            </tr>
+        </table>
+        <h4 style="background-color:lightyellow; text-align: center">Десерти</h4>
+        <p>4. Моті</p>
+        <img src="https://i.pinimg.com/474x/16/ce/b3/16ceb339095d01898019cb81a5b826ce.jpg" width="250" height="200"/><br>
+        <i>Моті- це тісто, яке готується з клейкого рису, в нього додають різноманітні начинки. Найбільшою популярністю моті користується напередодні Нового року, їм прийнято пригощати родичів і сусідів. Але і в інші сезони його також їдять із задоволенням.</i>
+        <table style="border: solid Fuchsia 1px; background-color:PeachPuff">
+            <tr>
+                <td colspan="2"><b>Рецепт</b></td>
+            </tr>
+            <tr>
+                <td>Цукрова пудра</td>
+                <td>100 гр.</td>
+            </tr>
+            <tr>
+                <td>Рисове борошно</td>
+                <td>50 гр.</td>
+            </tr>
+            <tr>
+                <td>Вода</td>
+                <td>100 мл.</td>
+            </tr>
+            <tr>
+                <td>Барвник</td>
+                <td>Краплю</td>
+            </tr>
+            <tr>
+                <td>Кукурудзяне борошно</td>
+                <td>По різному</td>
+            </tr>
+        </table>
+        <h2 style="background-color:plum; text-align:center">Китайська кухня</h2>
+        <h4 style="background-color:lightyellow; text-align: center">Страви</h4>
+        <p>5.Китайські пельмені</p>
+        <img src="https://i.pinimg.com/736x/e7/61/20/e76120d40de21cd277261c2c37866ff9.jpg" width="250" height="200"><br>
+        <i>Китайські пельмені(цзяоцзи)- страва китайської кухні, з тіста з начинкою з м'яса </i>
+        <table style="border: solid Fuchsia 1px; background-color:PeachPuff">
+            <tr>
+                <td colspan="2"><b>Рецепт</b></td>
+            </tr>
+            <tr>
+                <td>Мука</td>
+                <td>260 гр.</td>
+            </tr>
+            <tr>
+                <td>Гриби</td>
+                <td>200 гр.</td>
+            </tr>
+            <tr>
+                <td>Яйця</td>
+                <td>3 шт.</td>
+            </tr>
+            <tr>
+                <td>Зелена цибуля</td>
+                <td>0.5 пучка</td>
+            </tr>
+            <tr>
+                <td>Шпінат</td>
+                <td>1 пучок</td>
+            </tr>
+            <tr>
+                <td>Кунжутна олія, усянмянь, зіра, соєвий соус</td>
+                <td>Добавки</td>
+            </tr>
+            <tr>
+                <td>Соєвий соус, рисовий оцет, коріандр, часник, імбир, гострий перець, коричневий цукор </td>
+                <td>Для соуса</td>
+            </tr>
+        </table>
+        </main><br>
+        <footer style="background-color: lightpink">
+            <i>тел. 067 085 86 26</i>
+            <i>адресса: aziatskakuhna@gmail.com</i>
+        </footer>
+    </body>
+</html>
